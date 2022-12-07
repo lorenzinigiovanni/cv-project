@@ -1,0 +1,13 @@
+[submodule "model-generation/remove-backround/src/detectron2"]
+	path = model-generation/remove-backround/src/detectron2
+	url = https://github.com/facebookresearch/detectron2.git
+[submodule "model-generation/nerf_pl"]
+	path = model-generation/nerf_pl
+	url = https://github.com/kwea123/nerf_pl.git
+	branch = dev
+[submodule "model-generation/colmap"]
+	path = model-generation/colmap
+	url = https://github.com/colmap/colmap.git
+[submodule "model-generation/LLFF"]
+	path = model-generation/LLFF
+	url = https://github.com/Fyusion/LLFF.git
