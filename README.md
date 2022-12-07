@@ -12,11 +12,17 @@ Students:
 
 Image of the chair mesh generated from the photos using nerf_pl:
 
+![chair](https://user-images.githubusercontent.com/8526483/206315283-b1f43f68-09bd-4550-90e6-407fd7cea46d.png)
+
 ### Human-object interaction
 
 Video of the capture in Motive software:
 
+![motive](https://user-images.githubusercontent.com/8526483/206319338-88c03508-4641-463e-8120-c18c95f45338.gif)
+
 Video of the final result in Unreal Engine:
+
+![unreal](https://user-images.githubusercontent.com/8526483/206318766-1908d13d-21c7-4e8c-9822-8b90391f7152.gif)
 
 ## Instructions
 
@@ -24,7 +30,7 @@ If you want to reproduce the results, follow the instructions below.
 
 Clone the repository:
 ```bash
-git clone --recursive
+git clone --recursive https://github.com/lorenzinigiovanni/cv-project.git
 ```
 
 ### Model generation
