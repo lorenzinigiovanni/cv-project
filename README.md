@@ -10,6 +10,10 @@ Students:
 
 ### Chair model
 
+360° novel views of a chair:
+
+![chair](https://user-images.githubusercontent.com/25118268/206734834-bee5e72e-d53f-4f8e-8687-2258fdf6ff52.gif)
+
 Image of the chair mesh generated from the photos using nerf_pl:
 
 ![chair](https://user-images.githubusercontent.com/8526483/206315283-b1f43f68-09bd-4550-90e6-407fd7cea46d.png)
